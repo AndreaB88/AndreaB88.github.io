@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de tu Sitio</title>
+</head>
+<body>
+    <h1>Bienvenido a mi sitio web</h1>
+    <p>Este es un párrafo de introducción a tu sitio.</p>
+    <ul>
+        <li><a href="Distribucion_Geografica_Incidentes.html">Distribución Geográfica de Incidentes</a></li>
+        <li><a href="Distribucion_Rangos_Supervivencia.html">Distribución de Rangos de Supervivencia</a></li>
+        <li><a href="Rutas_Peligrosas_Mujeres.html">Rutas Peligrosas para Mujeres</a></li>
+        <li><a href="Supervivencia_Sexos_Rutas_Migratorias.html">Supervivencia por Sexos en Rutas Migratorias</a></li>
+    </ul>
+</body>
+</html>
