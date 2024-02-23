@@ -1,6 +1,6 @@
 # Protecto-final-It-Academy.github.io
 
-# Predicción de la Supervivencia de Personas según Género en el Proceso de Migración
+# Predicción de la Supervivencia de Personas según Género en el Proceso de Migración con Machine Learning
 
 ## Autora: Andrea Buenaño
 
