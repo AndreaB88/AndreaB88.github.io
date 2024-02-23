@@ -1,4 +1,4 @@
-
+# Proyeto final del bootcamp de Data Science de la It Academy
 # Predicción de la Supervivencia de Personas según Género en el Proceso de Migración con Machine Learning
 
 ## Autora: Andrea Buenaño
